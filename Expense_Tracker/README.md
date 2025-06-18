@@ -45,8 +45,6 @@ A powerful and user-friendly **Flask-based** web application designed to help in
 
 > The app features a clean and responsive dark-mode UI built with HTML and CSS.
 
-📌 **NOTE**: Replace this section with a screenshot of your dashboard once deployed.
-
 ---
 
 ## 📂 Project Structure
